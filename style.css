@@ -1,0 +1,244 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+.peter{
+
+    color: orange;
+    font-size: 50px;
+}
+.welcome{
+
+    font-size: 50px;
+}
+
+.flexible-container{
+
+    display: flex;
+    
+}
+.boxone{
+
+    width: 50%;
+    margin: 0px 100px;
+ }
+
+ .boxone p{
+
+    text-align: justify;
+
+ }
+.strong{
+    font-size: 20px;
+}
+.boxtwo{
+
+    width: 50%;
+    margin: 60px 0px;
+ 
+}
+
+.sadnan{
+
+width: 350px;
+height: 350px;
+border-radius: 1000px;
+
+}
+
+
+.hitme{
+
+
+    border-radius: 5px;
+    background-color:chocolate;
+    color:white;
+    font-weight: 700px;
+    padding: 10px 50px;
+    text-decoration: none;
+
+}
+.sadnannew{
+
+    height: 450px;
+    width: 450px;
+    border-radius: 1000px;
+}
+
+.boxthree{
+    width: 50%;
+    /* margin: 100px 150px; */
+    padding: 120px ;
+ 
+
+
+
+}
+
+.Bigdremm{
+
+    background-image: url('dream-bg.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+    
+
+
+
+     
+    
+    
+
+
+     
+}
+
+    
+
+
+.bigdream{
+
+
+    font-size: 40px;
+    
+}
+
+.boxfour{
+
+    width: 50%;
+    /* margin: 100px 0px; */
+    padding: 120px ;
+ 
+
+}
+
+.boxfour p{
+
+    text-align: justify;
+
+}
+
+.boxfive{
+    width: 50%;
+    margin: 0px 80px;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 15px;
+     
+ 
+
+}
+
+.boxsix{
+
+     
+    width: 50%;
+    margin: 0px 80px;
+    box-shadow: 10px 10px 40px grey;
+     border-radius: 15px;
+
+    
+
+}
+.developer{
+    font-size: 20px;  
+}
+
+.top-banner{
+
+    background-image: url('top-banner.png');
+    background-repeat: no-repeat;
+}
+
+.experiences{
+
+    font-size: 40px;
+}
+.experiences-logo{
+
+
+    background-image: url('exp-bg.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    /* position: left; */
+    /* background-position-y: 150px; */
+   /*  */
+}
+
+.boxfive h1{
+
+font-size: 30px;
+padding: 0px 15px;
+
+
+}
+
+.boxfive strong{
+
+    font-size: 20px;
+    color: coral;
+    padding: 0px 15px;
+    
+}
+
+.boxfive p{
+
+    text-align: justify;
+    padding: 0px 15px;
+
+}
+
+.boxsix h1{
+
+    font-size: 30px;
+    padding: 0px 15px;
+
+
+
+
+}
+
+.boxsix strong{
+
+
+    font-size: 20px;
+    color: coral;
+    padding: 0px 15px;
+
+}
+ 
+
+.boxsix p{
+
+    text-align: justify;
+    padding: 0px 15px;
+
+
+
+
+}
+
+#boxfives{
+
+    border-left: 7px solid;
+    border-image: linear-gradient( blue,cyan);
+    border-image-slice: 1;
+
+
+
+    
+   
+}
+#boxsixone{
+
+    border-left: 7px solid;
+    border-image: linear-gradient( tomato, gray);
+    border-image-slice: 1;
+}
+
+footer p{
+
+    text-align: center;
+}
